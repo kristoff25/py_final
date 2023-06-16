@@ -1,0 +1,5 @@
+Detalles del pedido:
+Cliente: cliente1
+Producto: hamburgesa con queso
+Precio: 120.0
+total a pagar es: 240.0
